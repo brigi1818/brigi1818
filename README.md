@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**brigi1818/brigi1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola soy Brenda
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
